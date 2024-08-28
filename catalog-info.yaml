@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: applicationset
+  name: applicationset1
   annotations:
     github.com/project-slug: ciiay/applicationset
 spec:
